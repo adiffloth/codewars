@@ -1,12 +1,8 @@
 from cw_test import test
-# import pprint
-
-
-##############
 
 
 def pawn_move_tracker(moves):
-    
+
     board = [
         [".", ".", ".", ".", ".", ".", ".", "."],
         ["p", "p", "p", "p", "p", "p", "p", "p"],
