@@ -6,6 +6,7 @@ from cw_test import test
 
 
 def pawn_move_tracker(moves):
+    
     board = [
         [".", ".", ".", ".", ".", ".", ".", "."],
         ["p", "p", "p", "p", "p", "p", "p", "p"],
