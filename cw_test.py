@@ -19,7 +19,7 @@ class Test:
             # print("\tTest Passed!" , actual)
         else:
             print("\tTest Failed:")
-            print(f"\t'{actual}' should equal '{expected}'")
+            print(f"\t'{actual}' should be '{expected}'")
 
 
 class test(Test):
